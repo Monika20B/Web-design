@@ -1,4 +1,4 @@
-# Web-design
+# Web-design(HTML,CSS)
 
 Steps to start the project:
 1. Download Web-design-MBbeauty.rar
